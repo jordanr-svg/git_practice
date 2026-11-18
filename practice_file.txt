@@ -1,1 +1,2 @@
 initial commit practice
+edit in detached head state
